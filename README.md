@@ -25,6 +25,7 @@ Control de Gastos es una aplicación móvil desarrollada en **Flutter** que perm
 ##  Instalación y ejecución
 
 ### 🔹 1. Clonar el repositorio
-```  https://github.com/Manu2423-sudo/prueba_gastos_app.git
+```
+     https://github.com/Manu2423-sudo/prueba_gastos_app.git
      aplicar comando 'flutter clean' y despues 'flutter pub get'
      Ejecutar la aplicacion con flutter run 
